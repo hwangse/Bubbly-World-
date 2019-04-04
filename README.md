@@ -1,5 +1,5 @@
 # programmed-video
-ANT2010 final project. 'bubbly world' 
+Media Art named 'bubbly world' 
 
 *productor : hwangse
 
