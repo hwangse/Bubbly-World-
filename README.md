@@ -1,16 +1,34 @@
-# Bubbly World
-### Private Media Art Project using Processing
-  **Bubbly world** is a purely Java-coded media art, created using the processing development environment for about two months. The main theme is 'Under the Sea', and I made up a total of 4 scenes. It is based on open source from openprocessing.org.   
+# Bubbly World 🐠
+### Media Art Project using [Processing IDE](https://processing.org/) 
+> `Bubbly world` is Java-coded media art, created using the processing IDE for about two months. 
+> The main theme is`Under the Sea`, and the video consists of a total of 4 scenes. Some codes are based on open source from [openprocessing.org](https://openprocessing.org).   
      
-You can see the full version on the YouTube. Please enjoy watching :)   
+<sup>You can see the [full version](https://youtu.be/oHxQvQRg3ZY) on the YouTube. 
+<br>Please enjoy watching! (like 👍 and subscribe 😻)</sup>   
    
-#### Video Link : https://youtu.be/oHxQvQRg3ZY
 
-#### 1. title
-<img src="./img/1.PNG" width="500px" alt="title"></img>
-#### 2. fishes
-<img src="./img/2.PNG" width="500px" alt="fishes"></img>
-#### 3. seaweeds
-<img src="./img/3.PNG" width="500px" alt="seaweed"></img>
-#### 4. the king of bubbly world
-<img src="./img/4.PNG" width="500px" alt="ending credit"></img>
+## Intro
+<img src="./readme/a1.gif" width="600" alt="title"></img>
+
+<img src="./readme/a2.gif" width="600" alt="title"></img>
+
+<br>
+
+## Fishes 
+<img src="./readme/a3.gif" width="600" alt="fishes"></img>
+
+<img src="./readme/a4.gif" width="600" alt="fishes"></img>
+
+<br>
+
+## Seaweeds
+<img src="./readme/a5.gif" width="600" alt="Seaweeds"></img>
+
+<img src="./readme/a6.gif" width="600" alt="Seaweeds"></img>
+
+<br>
+
+## King of the bubbly world 🐋
+<img src="./readme/a7.gif" width="600" alt="endings"></img>
+
+<img src="./readme/a8.gif" width="600" alt="endings"></img>
